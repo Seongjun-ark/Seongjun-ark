@@ -2,7 +2,7 @@
 ##
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EA%B9%80%EC%84%B1%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4-%EB%B0%B0%EC%A7%80%EC%83%89%EC%83%81?style=for-the-badge&logo=Green&logoColor=Green">
+  <img src="https://img.shields.io/badge/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EA%B9%80%EC%84%B1%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4-%EB%B0%B0%EC%A7%80%EC%83%89%EC%83%81?style=for-the-badge&logo=Green&logoColor=Green" height="60">
 </p>
 
 
