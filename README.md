@@ -15,7 +15,7 @@
 데이터의 가치를 발견하고 실무에 적용하는 소프트웨어 개발에 관심이 많습니다.
 
 * 🏫 **University**: 한신대학교 (Hanshin Univ.)
-* 🎓 **Major**: AI·소프트웨어계열 (AISW)
+* 🎓 **Major**: AI·SW
 * ✉️ **Contact**: `본인의 이메일 주소`
 * 🏠 **Blog**: [Tistory/Velog 등 링크]
 
