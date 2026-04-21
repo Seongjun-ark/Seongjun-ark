@@ -35,8 +35,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인의깃허브ID&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인의깃허브ID&layout=compact&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seongjun-arkID&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seongjun-Ark&layout=compact&theme=radical" height="150">
 </p>
 
 
