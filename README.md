@@ -1,7 +1,7 @@
 # 💻 한신대학교 AISW계열 재학생 | 김성준
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Seongjun%20Kim&fontSize=70" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=100&lines=Seongjun+Kim;Hanshin+Univ.+AISW" />
 </p>
 
 <p align="center">
