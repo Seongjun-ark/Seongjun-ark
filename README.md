@@ -3,10 +3,11 @@
 ### 한신대학교 AI.SW계열 김성준입니다.
 #### 한신대학교 AI.SW계열 김성준입니다.
 
+Markdown 기법
 
 ## Hi there 👋
 
-<!--
+
 **Seongjun-ark/Seongjun-ark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
