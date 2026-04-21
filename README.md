@@ -16,8 +16,8 @@
 
 * 🏫 **University**: 한신대학교 (Hanshin Univ.)
 * 🎓 **Major**: AI·SW
-* ✉️ **Contact**: `본인의 이메일 주소`
-* 🏠 **Blog**: [Tistory/Velog 등 링크]
+* ✉️ **Contact**: `s2joonk@gmail.com`
+<--* 🏠 **Blog**: None-->
 
 ---
 
