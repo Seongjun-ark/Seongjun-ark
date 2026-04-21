@@ -21,7 +21,7 @@
 
 ---
 
-<--### 🛠 Tech Stack (My Skills)
+<!-- ### 🛠 Tech Stack (My Skills)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25">
@@ -43,7 +43,7 @@
 
 ## Hi there 👋
 
-<--마크다운기법 사용하기-->
+<!-- 마크다운기법 사용하기 -->
 **Seongjun-ark/Seongjun-ark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
