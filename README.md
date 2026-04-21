@@ -17,7 +17,7 @@
 * 🏫 **University**: 한신대학교 (Hanshin Univ.)
 * 🎓 **Major**: AI·SW
 * ✉️ **Contact**: `s2joonk@gmail.com`
-<--* 🏠 **Blog**: None-->
+<!-- 🏠 **Blog**: None-->
 
 ---
 
