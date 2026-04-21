@@ -40,10 +40,10 @@
 </p>
 
 
-
+<!--
 ## Hi there 👋
 
-<!-- 마크다운기법 사용하기 -->
+마크다운기법 사용하기
 **Seongjun-ark/Seongjun-ark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -56,3 +56,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
